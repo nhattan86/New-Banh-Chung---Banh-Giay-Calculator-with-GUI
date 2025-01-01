@@ -1,8 +1,5 @@
 # New-Banh-Chung---Banh-Giay-Calculator-with-GUI
 
-Author: Le Nhat Tan (42001078)  
-Ton Duc Thang University
-
 ## Project Description
 This program calculates the optimal number of Banh Chung (square sticky rice cake) and Banh Giay (round sticky rice cake) that can be made based on given ingredients and weather conditions. The project is based on the Vietnamese folk tale of Lang Lieu, who created these traditional cakes to honor both Heaven and Earth.
 
@@ -75,8 +72,3 @@ python weather_calculator.py
   - ld < 1 or ld > 300
   - Invalid weather condition
   - Other invalid parameters
-
-## Acknowledgments
-- Based on the traditional Vietnamese folk tale of Lang Lieu
-- Project requirements provided by Ton Duc Thang University
-- Special thanks to Mr. Nguyen Quoc Thuan for project guidance
