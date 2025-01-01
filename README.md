@@ -1,6 +1,5 @@
 # New-Banh-Chung---Banh-Giay-Calculator-with-GUI
 
-# Banh Chung - Banh Giay Calculator
 Author: Le Nhat Tan (42001078)  
 Ton Duc Thang University
 
